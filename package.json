@@ -1,6 +1,6 @@
 {
   "name": "log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fast way to destinct your variables logged",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "javascript"
   ],
   "author": "Ali Ataf",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aliataf/log/issues"
   },
