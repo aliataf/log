@@ -1,6 +1,6 @@
 {
   "name": "@aliataf/log",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Fast way to destinct your variables logged",
   "main": "index.js",
   "scripts": {
